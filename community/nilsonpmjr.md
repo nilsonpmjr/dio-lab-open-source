@@ -5,7 +5,7 @@
 
 # **Nilon Junior**
 
-Olá! Eu sou o Nilson, um estudante de Segurança Informação apaixonado pela área de Tecnologia e suas ciências. Atualmente trabalho como Assistente na área Infraestrutura e atendimento ao usuário interno e externo. Estou aproveitando a oportunidade, ofericida pela Claro e DIO, para tirar a ferrugem da ponta dos dedos e aprender uma linguagem de programção tão completa quanto o JAVA. Agradeço muito a todos o envolvidos na entrega desse incrível conteúdo.
+Olá! Eu sou o Nilson, estudante de Segurança Informação apaixonado pela área de Tecnologia e suas ciências. Atualmente trabalho como Assistente na área Infraestrutura e atendimento ao usuário interno e externo. Estou aproveitando a oportunidade, oferecida pela Claro e DIO, para tirar a ferrugem das pontas dos dedos e aprender uma linguagem de programção tão completa como o JAVA. Agradeço muito a todos os envolvidos na entrega desse incrível conteúdo.
 
 ## Conecte-se comigo
 
